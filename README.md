@@ -10,7 +10,8 @@ La URL para acceder a la interfaz es: https://uddbcampm5.onrender.com/
 
 Una vista de lo que consiste la interfaz:
 
-![image](https://github.com/user-attachments/assets/f80b8424-1432-4e3e-8b16-7b11fa79cb8f)
+![image](https://github.com/user-attachments/assets/58b2732f-60f1-4ac1-beea-7060e4fa2fb3)
+
 
 Ejemplo de la estructura JSON utilizada desde la API pública:
 
